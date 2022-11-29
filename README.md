@@ -76,7 +76,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Shakir-Hussain12/Hello-Microverse.git
 ```
 --->
 
